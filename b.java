@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bsdasdasdasdasdasd
 as
 dasd
@@ -20,3 +21,9 @@ asda
 sdasd
 bbbbbbbbbbbbb
 >>>>>>> origin/student1
+=======
+bbbbbbbbbbbbbb
+student2
+student2
+student2
+>>>>>>> origin/student2
