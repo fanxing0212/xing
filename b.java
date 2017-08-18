@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 bsdasdasdasdasdasd
 as
 dasd
@@ -10,8 +10,7 @@ bbbbbbbbbbbbb
 
 
 mmmmmmmmmmmmmmmmmmmmm
-=======
-blkjdsksajd lsando jhsak 
+jd lsando jhsak 
 adsasd
 asda
 sdas
@@ -20,10 +19,10 @@ asd
 asda
 sdasd
 bbbbbbbbbbbbb
->>>>>>> origin/student1
-=======
+
+
 bbbbbbbbbbbbbb
 student2
 student2
 student2
->>>>>>> origin/student2
+
