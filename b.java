@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bsdasdasdasdasdasd
 as
 dasd
@@ -8,3 +9,14 @@ bbbbbbbbbbbbb
 
 
 mmmmmmmmmmmmmmmmmmmmm
+=======
+blkjdsksajd lsando jhsak 
+adsasd
+asda
+sdas
+dasd
+asd
+asda
+sdasd
+bbbbbbbbbbbbb
+>>>>>>> origin/student1
